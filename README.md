@@ -1,3 +1,5 @@
+https://github.com/communityus/steam-configs
+
 SteamOS community tracker
 =========================
 
